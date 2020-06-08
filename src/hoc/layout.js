@@ -4,10 +4,10 @@ import Header from "../Header/header";
 class PageLayout extends Component {
   render() {
     return (
-      <>
-        {/* <Header /> */}
+      <div className="wrapper">
+        <Header />
         {this.props.children}
-      </>
+      </div>
     );
   }
 }

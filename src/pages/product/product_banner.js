@@ -9,7 +9,7 @@ const ProductBanner = () => {
             <div className="row">
               <div className="col-md-6">
                 <div className="banner-left" data-aos="fade-right">
-                  <h1>``
+                  <h1>
                     Fundraising
                     <span className="d-block">
                       <b>Products</b>
