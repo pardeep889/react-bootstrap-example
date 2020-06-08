@@ -134,7 +134,7 @@ const TabSection = () => {
                                 </ul>
                                 <div className="label-block" data-aos="fade-up">
                                     <h6 className="label">Available in:</h6>
-                                    <div className="label-img"><img src="assets/images/microsoft-icon.png"/></div>
+                                    <div className="label-img"><img src="assets/images/microsoft-icon.png" alt="micro-soft-icon"/></div>
                                 </div>
                                 <section className="download-block" data-aos="fade-up">
                                     <div className="content-block">
@@ -142,7 +142,7 @@ const TabSection = () => {
                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.</p>
                                     </div>
                                     <div className="banner-btn">
-                                    <a href="#">Purchase Now <i className="fa fa-arrow-right" aria-hidden="true"></i></a>
+                                    <a href="/">Purchase Now <i className="fa fa-arrow-right" aria-hidden="true"></i></a>
                                 </div>
                                 </section>
                             </div>

@@ -1,7 +1,7 @@
 import React from "react";
 import { Switch, Route } from "react-router-dom";
 import Layout from "./hoc/layout";
-import HomePage from "./pages/home/home";
+// import HomePage from "./pages/home/home";
 import ProductPage from "./pages/product/product";
  
 
